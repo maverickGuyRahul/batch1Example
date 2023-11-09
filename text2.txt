@@ -1,2 +1,2 @@
 Suppose I'm writing some code over here. and I have now made some changes.
-Some additional changes
+Some additional changes. Changes were incorrect and crashed my application
